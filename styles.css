@@ -1,0 +1,12 @@
+body{
+    background-color: #C0D6DF;
+}
+#keyboard{
+    width: 300px;
+    height: 500px;
+    display: grid;
+    background-color: #4F6D7A;
+}
+.key{
+
+}
