@@ -16,4 +16,6 @@ function add(a, b){
   }
   var input1 = ""; 
   var input2 = "";
+  var outputDisplay = document.getElementById("outputP");
+  outputDisplay.textContent = input1 + " "+  operation  + " " + input2;
   
